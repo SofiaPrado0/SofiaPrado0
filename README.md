@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindos+ao+meu+GitHub+<3;Sou+a+Sofia!😼&center=true&width=500)](https://git.io/typing-svg)
 
+<div ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)   </div>
 
 
 <div style="margin-top: 20px;">
