@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindos+ao+meu+GitHub+<3;Sou+a+Sofia!😼&center=true&width=500)](https://git.io/typing-svg)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SofiaPrado0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="margin-top: 20px;">
   <img src="https://i.gifer.com/56Bh.gif" width="60" />
