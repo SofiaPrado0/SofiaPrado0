@@ -1,12 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Bem+vindos+ao+meu+GitHub+%3C3;Sou+a+Sofia!+%F0%9F%98%BC;Dev+%7C+Curiosa+%7C+Sempre+aprendendo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Oi+eu+sou+a+Sofia!)](https://git.io/typing-svg)
 
+<img src="https://i.gifer.com/56Bh.gif" width="60" />
+<img src="https://i.gifer.com/56Bh.gif" width="60" />
+<img src="https://i.gifer.com/56Bh.gif" width="60" />
+<img src="https://i.gifer.com/56Bh.gif" width="60" />
 <img src="https://i.gifer.com/56Bh.gif" width="60" />
 
 </div>
-
-### Tecnologias
 
 <div align="center">
 
@@ -19,8 +21,6 @@
 </div>
 
 <br>
-
-### Estatísticas
 
 <div align="center">
 
