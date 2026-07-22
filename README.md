@@ -21,17 +21,10 @@
 <br>
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SofiaPrado0&show_icons=true&theme=radical&hide_border=true&title_color=F72585&icon_color=F72585&hide_rank=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaPrado0&layout=compact&theme=radical&hide_border=true&title_color=F72585" />
-
-<br>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SofiaPrado0&theme=radical&hide_border=true&ring=F72585&fire=F72585&currStreakLabel=F72585)](https://git.io/streak-stats)
 
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:170A24&height=100&section=footer" />
 </div>
