@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -28,8 +29,6 @@
 
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,100:1A0000&height=100&section=footer" />
-</div>
+
+
