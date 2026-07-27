@@ -17,7 +17,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
@@ -25,7 +26,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SofiaPrado0&theme=radical&hide_border=true&ring=C1121F&fire=C1121F&currStreakLabel=C1121F)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SofiaPrado0&theme=dark&hide_border=true&ring=C1121F&fire=C1121F&currStreakLabel=C1121F)](https://git.io/streak-stats)
 
 </div>
 
