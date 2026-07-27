@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=C1121F&center=true&vCenter=true&width=500&lines=Oi+eu+sou+a+Sofia!!😼)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=#FFFFFFcenter=true&vCenter=true&width=500&lines=Oi+eu+sou+a+Sofia!!😼)](https://git.io/typing-svg)
 
   <br>
 
