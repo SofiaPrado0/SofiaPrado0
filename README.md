@@ -23,7 +23,8 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-F05032?style=for-the-badge&logo=c++&logoColor=white)
+  ![C++](https://shields.io)
+
   
   <br><br>
   <hr style="width: 50%; color: #C1121F;">
